@@ -1,0 +1,2 @@
+# Dijkstra
+Just a practice
